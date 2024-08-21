@@ -6,6 +6,8 @@ UFO Hunters is a 2D arcade-style game developed using the Gosu library in Ruby. 
 
 <p align="center">
   <img src="demo/video_1.gif" width="200">
+  <img src="demo/video_2.gif" width="200">
+
 
 <i>Sample results</i>
 </p>
